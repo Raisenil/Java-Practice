@@ -1,0 +1,4 @@
+
+public interface ScientificCalculation {
+	public double toThePow();
+}

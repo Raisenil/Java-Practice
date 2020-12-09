@@ -1,0 +1,17 @@
+
+public class ScientificCalculator implements ScientificCalculation {
+	
+	public void toThePow()
+	{
+		
+	}
+	
+	ScientificCalculator( )
+	{
+		
+	}
+	ScientificCalculator (double value1, double value2)
+	{
+		
+	}
+}

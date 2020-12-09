@@ -1,0 +1,11 @@
+
+public class main {
+
+	public static void main(String[] args) {
+	
+		BasicCalculator s1= new BasicCalculator();
+		s1.setValue1(10);
+		s1.setValue2(5);
+	}
+
+}

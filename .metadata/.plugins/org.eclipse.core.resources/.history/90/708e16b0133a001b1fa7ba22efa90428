@@ -1,0 +1,17 @@
+
+public class ScientificCalculator extends BasicCalculator implements ScientificCalculation {
+	
+	public void toThePow()
+	{
+		
+	}
+	
+	ScientificCalculator( )
+	{
+		System.out.println("Default Constractor Called");
+	}
+	ScientificCalculator (double value1, double value2)
+	{
+		
+	}
+}

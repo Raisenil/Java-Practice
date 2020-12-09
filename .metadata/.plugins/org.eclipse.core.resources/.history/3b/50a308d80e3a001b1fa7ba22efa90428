@@ -1,0 +1,23 @@
+
+public class BasicCalculator implements Calculation {
+	
+	public void add()
+	{
+		
+	}
+	
+	public void subtract()
+	{
+		
+	}
+	
+	public void multiply()
+	{
+		
+	}
+	
+	public void divide()
+	{
+		
+	}
+}

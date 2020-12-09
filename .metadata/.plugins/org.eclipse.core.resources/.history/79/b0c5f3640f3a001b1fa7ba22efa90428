@@ -1,0 +1,11 @@
+
+public class ScientificCalculator {
+	ScientificCalculator( )
+	{
+		
+	}
+	ScientificCalculator (double value1, double value2)
+	{
+		
+	}
+}

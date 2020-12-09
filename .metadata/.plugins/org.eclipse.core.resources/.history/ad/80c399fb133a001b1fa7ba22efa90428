@@ -1,0 +1,15 @@
+
+public class main {
+
+	public static void main(String[] args) {
+	
+		ScientificCalculator s1= new ScientificCalculator();
+		s1.setValue1(10);
+		s1.setValue2(5);
+		s1.add();
+		s1.subtract();
+		s1.divide();
+		s1.multiply();
+	}
+
+}

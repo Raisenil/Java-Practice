@@ -1,0 +1,19 @@
+import java.lang.*;
+import java.lang.Math; 
+
+public class ScientificCalculator extends BasicCalculator implements ScientificCalculation {
+	
+	public void toThePow()
+	{
+		System.out.println("toThePow : " +Math.pow(getValue1(),getValue2()));
+	}
+	
+	ScientificCalculator( )
+	{
+		
+	}
+	ScientificCalculator (double value1, double value2)
+	{
+		
+	}
+}
